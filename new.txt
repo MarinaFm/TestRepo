@@ -1,0 +1,8 @@
+git clone ... (забрать себе репозиторий)
+git checkout main (переключиться в главную ветку)
+git pull
+git checkout -b Testing
+git status
+git add .
+git commit -m "message"
+git push
